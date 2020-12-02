@@ -28,3 +28,7 @@
     local-name: srdfdom
     uri: https://github.com/ros-planning/srdfdom.git
     version: kinetic-devel
+- git:
+    local-name: panda_moveit_config
+    uri: https://github.com/dti-research/panda_moveit_config.git
+    version: kinetic-devel
